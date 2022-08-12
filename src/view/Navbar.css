@@ -1,0 +1,12 @@
+.header {
+  background: white;
+  margin-bottom: 20px;
+  max-height: 80px;
+  display: flex;
+  text-align: center;
+}
+.header > a {
+  font-family: 'Saira Stencil One';
+  font-style: normal;
+  font-size: 40px;
+}

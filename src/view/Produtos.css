@@ -1,0 +1,42 @@
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 auto;
+  max-width: 1200px;
+}
+
+.flex > div {
+  flex: 1 1 200px;
+  margin: 10px;
+  text-align: left;
+  background: rgba(255, 255, 255, 0.4);
+  border-radius: 5px;
+  max-width: 256px;
+}
+
+.descricao {
+  margin-left: 12px;
+  margin-right: 12px;
+  margin-bottom: 4px;
+}
+
+.flex > div > img {
+  max-width: 100%;
+  border-top-right-radius: 5px;
+  border-top-left-radius: 5px;
+  max-width: 256px;
+  max-height: 300px;
+}
+
+.descricao > hr {
+  background: #DCE2E6;
+}
+
+p {
+  font-family: Saira;
+  size: 14px;
+}
+
+.descricao > .legenda {
+  color: #41414D;
+}
