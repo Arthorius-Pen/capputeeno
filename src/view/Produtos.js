@@ -18,7 +18,7 @@ function Produtos() {
       <div>
         <img src={camiseta_dreamer} />
         <div className='descricao'>
-          <p className='legenda'>Legenda</p>
+          <p className='legenda'>Camiseta DREAMER</p>
           <hr />
           <p><strong>R$ 32, 00</strong></p>
         </div>
@@ -26,7 +26,7 @@ function Produtos() {
       <div>
         <img src={camiseta_evening} />
         <div className='descricao'>
-          <p className='legenda'>Legenda</p>
+          <p className='legenda'>Camiseta evening</p>
           <hr />
           <p><strong>R$ 32, 00</strong></p>
         </div>
@@ -34,7 +34,7 @@ function Produtos() {
       <div>
         <img src={camiseta_outcast} />
         <div className='descricao'>
-          <p className='legenda'>Legenda</p>
+          <p className='legenda'>Camiseta Outcast</p>
           <hr />
           <p><strong>R$ 32, 00</strong></p>
         </div>
@@ -42,7 +42,7 @@ function Produtos() {
       <div>
         <img src={camiseta_not_today} />
         <div className='descricao'>
-          <p className='legenda'>Legenda</p>
+          <p className='legenda'>Camiseta not today.</p>
           <hr />
           <p><strong>R$ 32, 00</strong></p>
         </div>
@@ -50,7 +50,7 @@ function Produtos() {
       <div>
         <img src={camiseta_ramones} />
         <div className='descricao'>
-          <p className='legenda'>Legenda</p>
+          <p className='legenda'>Camiseta Ramones</p>
           <hr />
           <p><strong>R$ 32, 00</strong></p>
         </div>
@@ -58,7 +58,7 @@ function Produtos() {
       <div>
         <img src={camiseta_broken_saints} />
         <div className='descricao'>
-          <p className='legenda'>Legenda</p>
+          <p className='legenda'>Camiseta Broken Saints</p>
           <hr />
           <p><strong>R$ 32, 00</strong></p>
         </div>
@@ -66,7 +66,7 @@ function Produtos() {
       <div>
         <img src={caneca_black_ring} />
         <div className='descricao'>
-          <p className='legenda'>Legenda</p>
+          <p className='legenda'>Caneca Black Ring</p>
           <hr />
           <p><strong>R$ 32, 00</strong></p>
         </div>
@@ -74,7 +74,7 @@ function Produtos() {
       <div>
         <img src={caneca_decaf_peco} />
         <div className='descricao'>
-          <p className='legenda'>Legenda</p>
+          <p className='legenda'>Caneca Decaf! P&Co</p>
           <hr />
           <p><strong>R$ 32, 00</strong></p>
         </div>
@@ -82,7 +82,7 @@ function Produtos() {
       <div>
         <img src={caneca_the_grouds} />
         <div className='descricao'>
-          <p className='legenda'>Legenda</p>
+          <p className='legenda'>Caneca The Grounds</p>
           <hr />
           <p><strong>R$ 32, 00</strong></p>
         </div>
@@ -90,7 +90,7 @@ function Produtos() {
       <div>
         <img src={caneca_preto_fosco} />
         <div className='descricao'>
-          <p className='legenda'>Legenda</p>
+          <p className='legenda'>Caneca preto fosco</p>
           <hr />
           <p><strong>R$ 32, 00</strong></p>
         </div>
@@ -98,7 +98,7 @@ function Produtos() {
       <div>
         <img src={caneca_never_settle} />
         <div className='descricao'>
-          <p className='legenda'>Legenda</p>
+          <p className='legenda'>Caneca Never settle</p>
           <hr />
           <p><strong>R$ 32, 00</strong></p>
         </div>
@@ -106,20 +106,11 @@ function Produtos() {
       <div>
         <img src={caneca_ceramica_rustica} />
         <div className='descricao'>
-          <p className='legenda'>Legenda</p>
+          <p className='legenda'>Caneca de cerâmica rústica</p>
           <hr />
           <p><strong>R$ 32, 00</strong></p>
         </div>
       </div>
-      <div>
-        <img src={caneca_ceramica_rustica} />
-        <div className='descricao'>
-          <p className='legenda'>Legenda</p>
-          <hr />
-          <p><strong>R$ 32, 00</strong></p>
-        </div>
-      </div>
-
     </div>
   )
 }
